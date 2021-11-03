@@ -4,9 +4,9 @@
 #### Currently working for [Odys Group](https://odys-group.com/)
 ---
 <p align="center">
-  <a href="https://www.instagram.com/dani2405_dev"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"></a>
-  <a href="https://www.instagram.com/odys.group"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"></a>
-  <a href="https://odys-group.com" margin="50px"><img width="32px" height="32px" src="https://github.com/Dani2405/Dani2405/blob/master/icon.png" alt="Instagram"></a>
+  <a href="https://www.instagram.com/dani2405_dev" target="_blank"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"></a>
+  <a href="https://www.instagram.com/odys.group" target="_blank"><img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"></a>
+  <a href="https://odys-group.com" margin="50px" target="_blank"><img width="32px" height="32px" src="https://github.com/Dani2405/Dani2405/blob/master/icon.png" alt="Instagram"></a>
 </p>
 
 <!--
