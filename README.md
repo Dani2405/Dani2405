@@ -1,5 +1,5 @@
 ![Dani2405](https://github.com/Dani2405/Dani2405/blob/master/GitHub%20Wallpaper.png)
-## I'm Daniel, a Web Developer from Switzerland
+## I'm Daniel, a Web, App & Game Developer from Switzerland
 
 #### Currently working for [Odys Group](https://odys-group.com/)
 ---
